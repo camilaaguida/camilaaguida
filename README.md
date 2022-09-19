@@ -1,4 +1,4 @@
-## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="180" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1021491132523368448/download20220901151859.png">
+## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="160" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1021491132523368448/download20220901151859.png">
 - 📚 Cursando Ciências da Computação 
 - 🌱 Estudando: Java
 - 👧 Ela/Dela
