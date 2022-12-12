@@ -1,6 +1,5 @@
 ## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="160" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
 - 📚 Cursando Ciências da Computação 
-- 🌱 Estudando: Java
 - 👧 Ela/Dela
 ##
 
@@ -12,6 +11,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mih-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Mih-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Mih-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Mih-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ##
