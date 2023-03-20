@@ -1,9 +1,9 @@
 ## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 
 - 📚 Cursando Ciências da Computação 
-- 👧 Ela/Dela
+- 👧 Ela/Dela <img align="right" alt="Mih-Pic" height="350" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
 </br>
 
-![](https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<img align="right" alt="Mih-Pic" height="350" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif"><br/>
+![](https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
