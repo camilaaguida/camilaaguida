@@ -1,14 +1,18 @@
 ## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="160" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
 - 📚 Cursando Ciências da Computação 
 - 👧 Ela/Dela
-##
+</br>
 
 <div align="center">
-  <a href="https://linktr.ee/mihaguida">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=camilaaguida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://linktr.ee/mihaguida"> 
 </div>
   
+![](https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=camilaaguida&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Mih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -16,7 +20,7 @@
   <img align="center" alt="Mih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-##
+</br>
 
 <div> 
   <a href="https://www.instagram.com/mihaguida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,6 +33,3 @@
 
 <!--
 **camilaaguida/camilaaguida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
