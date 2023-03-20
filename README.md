@@ -1,5 +1,5 @@
-## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 
-- 📚 Cursando Ciências da Computação <img align="right" alt="Mih-Pic" height="350" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
+## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="350" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
+- 📚 Cursando Ciências da Computação
 - 👧 Ela/Dela
 </br>
 
