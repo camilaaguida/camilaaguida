@@ -1,13 +1,20 @@
-## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img align="right" alt="Mih-Pic" height="350" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
+## Oiee, meu nome é Camila, mas você pode me chamar de Mih 😉 <img style="margin-top: 50px;" align="right" alt="Mih-Pic" width="400px" style="border radius:50px;" src="https://cdn.discordapp.com/attachments/982788074889150524/1022921063287496784/Gif.gif">
 - 📚 Cursando Ciências da Computação
 - 👧 Ela/Dela
 </br>
 
-<div><img style="width:45%; position:relative;" src="https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&show_icons=true&count_private=true&hide_border=false" align="center" /></div>  
-<div><img style="width:45%; position:relative;" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false" align="center" /></div>  
-<div><img style="height:145px; position:relative;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>
+<div>
+<img style="width:505px; position:relative;" src="https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&show_icons=true&count_private=true&hide_border=false" align="center" />
+</div>
+</br>
+<div>
+<img style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false" width="250" align="center"/>
+<img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" align="center"/>
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=camilaaguida&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</br>
+
+<img style="margin: 10px" src="https://github-profile-trophy.vercel.app/?username=camilaaguida&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="505px" align="center"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
