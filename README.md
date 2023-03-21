@@ -4,11 +4,11 @@
 </br>
 
 <div>
-<img style="width:505px; position:relative;" src="https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&show_icons=true&count_private=true&hide_border=false" align="center" />
+<img style="width:505px; position:relative;" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false" align="center" />
 </div>
 </br>
 <div>
-<img style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaaguida&theme=radical&hide_border=false" width="250" align="center"/>
+<img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=camilaaguida&theme=radical&show_icons=true&count_private=true&hide_border=false" width="250" align="center"/>
 <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaguida&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" align="center"/>
 </div>
 
